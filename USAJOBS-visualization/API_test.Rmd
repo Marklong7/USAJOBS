@@ -29,7 +29,7 @@ GETfunc = function(URL) {
     config = add_headers(
       "Host" = "data.usajobs.gov",
       "User-Agent" = "jialong7@illinois.edu",
-      "Authorization-Key" = "Cuht8z1/tYxh7Lr6pfdk24oXpYddEeKjD0kUkBHFfgE="
+      "Authorization-Key" = "your_key"
     )
   )
 }
